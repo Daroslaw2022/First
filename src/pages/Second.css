@@ -1,0 +1,24 @@
+.SNav {
+    display: flex;
+    align-items: center;
+    padding: 10px 10px;
+
+}
+
+.Slogo {
+    margin-right: 10px;
+    height: 50px;
+}
+
+.Stitle {
+    color: rgb(208, 80, 80);
+}
+
+.card {
+    width: 175px;
+    font-size: 12px;
+}
+.card--image {
+    width: 400%;
+    border-radius: 9px;
+}
